@@ -1,0 +1,21 @@
+[submodule "HolisticWare.Core"]
+	path = HolisticWare.Core
+	url = https://github.com/moljac/HolisticWare.Core.git
+[submodule "HolisticWare.Core.Net"]
+	path = HolisticWare.Core.Net
+	url = https://github.com/moljac/HolisticWare.Core.Net.git
+[submodule "HolisticWare.Core.Platforms"]
+	path = HolisticWare.Core.Platforms
+	url = https://github.com/moljac/HolisticWare.Core.Platforms.git
+[submodule "HolisticWare.Core.Data"]
+	path = HolisticWare.Core.Data
+	url = https://github.com/moljac/HolisticWare.Core.Data.git
+[submodule "HolisticWare.Core.Data.Xml"]
+	path = HolisticWare.Core.Data.Xml
+	url = https://github.com/moljac/HolisticWare.Core.Data.Xml.git
+[submodule "HolisticWare.Core.Net.HttpClient"]
+	path = HolisticWare.Core.Net.HttpClient
+	url = https://github.com/moljac/HolisticWare.Core.Net.HttpClient.git
+[submodule "HolisticWare.Core.Json"]
+	path = HolisticWare.Core.Json
+	url = https://github.com/moljac/HolisticWare.Core.Json.git
