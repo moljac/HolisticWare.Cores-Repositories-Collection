@@ -22,3 +22,6 @@
 [submodule "HolisticWare.Core.Reflection"]
 	path = HolisticWare.Core.Reflection
 	url = https://github.com/moljac/HolisticWare.Core.Reflection.git
+[submodule "HolisticWare.Core.Collections"]
+	path = HolisticWare.Core.Collections
+	url = https://github.com/moljac/HolisticWare.Core.Collections.git
